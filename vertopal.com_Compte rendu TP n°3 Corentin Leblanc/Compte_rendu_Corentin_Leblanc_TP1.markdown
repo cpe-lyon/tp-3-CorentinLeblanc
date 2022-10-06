@@ -1,6 +1,6 @@
-**[Compte rendu TP 3 -- Utilisateurs, groupes et permissions]{.ul}**
+**[Compte rendu TP 3 -- Utilisateurs, groupes et permissions]**
 
-**[Exercice 1. Gestion des utilisateurs et des groupes]{.ul}**
+**[Exercice 1. Gestion des utilisateurs et des groupes]**
 
 1 -- Je me suis servi de la commande « **sudo groupadd dev** » et
 « **sudo groupadd infra** ». Pour bien vérifier que ces deux groupes ont
@@ -141,7 +141,7 @@ lire) ont.
 minutes. La commande qui permet de forcer sudo à oublier mon mot de
 passe est
 
-**[Exercice 2. Gestion des permissions]{.ul}**
+**[Exercice 2. Gestion des permissions]**
 
 1 -- J'ai premièrement créé un dossier nommé « test » grâce à la
 commande « mkdir » puis ensuite j'ai créé un fichier grâce à la commande
